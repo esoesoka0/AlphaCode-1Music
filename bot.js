@@ -342,5 +342,15 @@ client.on('message', message => {
     }
 });
 
-client.login(process.env.BOT_TOKEN);
+client.login(43
+
+});
+
+344
+
+
+
+345
+
+client.login("NzIyMTUwMDc0NTI4MDM4OTMz.Xue4qg.DXONOhkcCyAaB6lxWTrIqlEgDxM");
 
